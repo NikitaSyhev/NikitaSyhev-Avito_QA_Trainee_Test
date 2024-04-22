@@ -1,0 +1,25 @@
+{
+  "name": "test_avito_qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaSyhev/NikitaSyhev-Avito_QA_Trainee_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaSyhev/NikitaSyhev-Avito_QA_Trainee_Test/issues"
+  },
+  "homepage": "https://github.com/NikitaSyhev/NikitaSyhev-Avito_QA_Trainee_Test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-playwright": "^0.0.1",
+    "playwright": "^1.43.1"
+  }
+}
