@@ -41,8 +41,3 @@ describe('Testing of counter at Avito Page', ()=> {
 
 
 
-
-
-
-
-
